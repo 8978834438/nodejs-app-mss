@@ -27,7 +27,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://13.233.151.223:8081/repository/nodeJS-repository/"
+    "url": "https://github.com/8978834438/nodejs-app-mss.git"
   },
   "keywords": [
     "node",
